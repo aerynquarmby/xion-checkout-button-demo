@@ -10,7 +10,6 @@
 Main Script:
 <script type="text/javascript" src="https://xion-checkout-button-script-staging.s3.amazonaws.com/bundle.js"></script>
 
-Checkout button HTML code:
 <div productid="7" class="xion-subscription-button-wrapper"></div>
 
 # How to setup on Xion
