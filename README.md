@@ -7,10 +7,8 @@
 - Redirected to follow up checkout or to Hosted checkout to complete crypto payment
 
 # Xion script & html code used in demo
-Main Script:
-<script type="text/javascript" src="https://xion-checkout-button-script-staging.s3.amazonaws.com/bundle.js"></script>
+<img width="1782" alt="Screenshot 2023-07-27 at 15 42 14" src="https://github.com/aerynquarmby/xion-checkout-button-demo/assets/67911815/64437a09-84d8-4bb2-9cd7-89b30c4d89c3">
 
-<div productid="7" class="xion-subscription-button-wrapper"></div>
 
 # How to setup on Xion
 - Head to https://xionpay.app
