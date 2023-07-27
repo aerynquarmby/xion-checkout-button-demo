@@ -1,5 +1,7 @@
 # Xion Web3 Checkout Button Demo
 
+Live link to checkout button > https://adorable-profiterole-62b3f0.netlify.app/
+
 # How to setup on Xion
 - Head to https://xionpay.app
 - Create product
